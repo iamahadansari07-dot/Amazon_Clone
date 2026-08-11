@@ -1,3 +1,3 @@
-# Amazon_Clone
-This is Amazon Project For Prectise
+# My_Portfolio
+This is Portfolio Project 
 
